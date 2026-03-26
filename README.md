@@ -16,7 +16,6 @@ A **production-ready asynchronous API** designed to scrape, monitor, and track p
 
   * **⚡ Asynchronous Core**: Built with `FastAPI` and `httpx` for non-blocking, high-speed requests.
   * **🕵️ Identity Masking**: Implements browser-accurate `User-Agent` and `Sec-Fetch` headers to minimize CAPTCHA triggers.
-  * **🤖 Background Tracking**: Uses `BackgroundTasks` to monitor prices in a continuous loop without hanging the API.
   * **🧹 Auto-Data Cleaning**: Automatically strips currency symbols (`₹`), commas, and hidden whitespace to return **pure numerical data**.
   * **📍 Delivery Insights**: Specifically tuned to extract shipping estimates and "Prime" availability.
 
