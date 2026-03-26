@@ -26,7 +26,7 @@ A **production-ready asynchronous API** designed to scrape, monitor, and track p
 1.  **Clone the Repository**
 
     ```bash
-    git clone https://github.com/nithish_2101/amazon-tracker-api.git
+    git clone https://github.com/Nithishprogrammer/amazon-intelligence-api.git
     cd amazon-tracker-api
     ```
 
